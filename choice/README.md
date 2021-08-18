@@ -6,4 +6,4 @@ A new Flutter project.
 [Download APK](https://drive.google.com/file/d/1Qb4MVNHDrkiq6iRBIH5HbhCveyxmOOjJ/view?usp=sharing)
 ## Screenshot
 
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![plot](./ezgif.com-gif-maker.gif)
